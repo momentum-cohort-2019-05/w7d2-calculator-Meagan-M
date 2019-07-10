@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(202, 240, 202);
+    margin: 0px:
+}
+
+.container {
+    display: grid;
+    justify-items: stretch;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 20px; 
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+  }
